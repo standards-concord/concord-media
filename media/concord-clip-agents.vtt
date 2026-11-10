@@ -1,0 +1,25 @@
+WEBVTT
+
+1
+00:00:00.350 --> 00:00:04.843
+Coding agents connected to Concord report the gaps they find in the standard.
+
+2
+00:00:06.024 --> 00:00:09.890
+This one came from Claude Code, exporting weekly shifts.
+
+3
+00:00:09.890 --> 00:00:11.957
+Triage checks the standard first,
+
+4
+00:00:11.957 --> 00:00:15.297
+and suggests existing terms that might already cover it.
+
+5
+00:00:16.099 --> 00:00:19.547
+Connect an agent shows how to add Concord to Claude Code,
+
+6
+00:00:19.547 --> 00:00:22.316
+or any agent that speaks MCP.

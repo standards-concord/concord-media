@@ -1,0 +1,29 @@
+WEBVTT
+
+1
+00:00:00.350 --> 00:00:03.032
+Validate data checks a whole file against any
+
+2
+00:00:03.032 --> 00:00:06.149
+release of the standard, not just the working draft.
+
+3
+00:00:06.951 --> 00:00:12.149
+Upload a file, here a food bank's shifts, and pick the release your data follows.
+
+4
+00:00:12.949 --> 00:00:17.581
+The report groups problems by the record they're about, in plain words.
+
+5
+00:00:17.581 --> 00:00:21.386
+Here, a minimum age is written as text, not a number.
+
+6
+00:00:22.187 --> 00:00:26.367
+Download the report as JSON, or as a standard SHACL report.
+
+7
+00:00:27.168 --> 00:00:31.896
+And from your own code, the same check is one POST to the standard's address.

@@ -1,0 +1,20 @@
+0:00 Welcome
+0:36 What Concord is for
+1:25 Exploring a standard
+2:02 Readable shapes
+2:11 Classes for developers
+2:23 Querying in the browser
+2:44 Gathering requirements
+3:13 Changing the standard
+4:16 Building with the standard
+4:45 Connecting Claude Code
+5:13 Signing in
+5:27 A feature the standard can't describe yet
+5:58 A fork of my own
+6:40 Classes straight from the fork
+6:50 Building the feature
+7:06 The finished feature
+7:20 Meanwhile, on the hub
+7:31 Autopilot for app owners
+7:58 Back to the main standard
+8:24 Wrapping up

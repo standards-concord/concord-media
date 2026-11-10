@@ -1,0 +1,47 @@
+{
+  "title": "Concord, one feature at a time",
+  "clips": [
+    {
+      "id": "validate",
+      "file": "concord-clip-validate",
+      "title": "Validate your data",
+      "summary": "Validate data checks a whole file against any release of the standard, not just the working draft.",
+      "duration": 33
+    },
+    {
+      "id": "interview",
+      "file": "concord-clip-interview",
+      "title": "Describe a use case",
+      "summary": "Anyone can describe how they'd use the standard, in a short interview.",
+      "duration": 25
+    },
+    {
+      "id": "meeting",
+      "file": "concord-clip-meeting",
+      "title": "A meeting, turned into requirements",
+      "summary": "Concord turns meetings into requirements.",
+      "duration": 25
+    },
+    {
+      "id": "agents",
+      "file": "concord-clip-agents",
+      "title": "Reports from coding agents",
+      "summary": "Coding agents connected to Concord report the gaps they find in the standard.",
+      "duration": 24
+    },
+    {
+      "id": "vote",
+      "file": "concord-clip-vote",
+      "title": "Voting on a breaking change",
+      "summary": "When its comment period ends, a breaking change goes to a vote of the working group.",
+      "duration": 25
+    },
+    {
+      "id": "governance",
+      "file": "concord-clip-governance",
+      "title": "Setting the rules",
+      "summary": "Each standard sets its own rules for deciding changes, and anyone can read them.",
+      "duration": 28
+    }
+  ]
+}
